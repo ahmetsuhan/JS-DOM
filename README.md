@@ -828,6 +828,11 @@ JS-DOM-NOTES
       Dikey (Yükseklik)  : margin-top + border-top + padding-top + yükseklik + padding-bottom + border-bottom + margin-bottom
       
       let a = document.getElementById("selector").scrollHeight;
+
+	
+   102- document.referrer : previouspage link <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/referrer" target="_blank">More</a>
+	
+	The Document.referrer property returns the URI of the page that linked to this page.
    
 ## JS DOM Events <--> <a name="jsdom-events"></a><a href="#top">Back to top</a>
    
