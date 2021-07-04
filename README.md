@@ -833,6 +833,14 @@ JS-DOM-NOTES
    102- document.referrer : previouspage link <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/referrer" target="_blank">More</a>
 	
 	The Document.referrer property returns the URI of the page that linked to this page.
+	
+   103- Element.insertAdjacentHTML(position,text) <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML" target="_blank">More</a>
+	
+	positions: 
+		beforebegin
+		afterbegin 
+		beforeend
+		afterend
    
 ## JS DOM Events <--> <a name="jsdom-events"></a><a href="#top">Back to top</a>
    
